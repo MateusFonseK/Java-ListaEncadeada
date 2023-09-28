@@ -1,5 +1,7 @@
 # Lista Encadeada em Java
 
+![cap](screenshot.png)
+
 Este projeto implementa uma Lista Encadeada em Java, com as seguintes operações:
 
 - Criação da lista vazia;
